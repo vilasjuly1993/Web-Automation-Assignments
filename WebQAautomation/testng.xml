@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="React test">
+<test thread-count="" name="Basic Calculation Test">
+    <classes>
+      <class name="com.capitol.WebQAautomation.tests.RunScripts"/>
+    </classes>
+  </test>
+</suite>
+

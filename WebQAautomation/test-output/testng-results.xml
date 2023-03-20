@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="15" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-20T19:21:25 IST" name="Default suite" finished-at="2023-03-20T19:23:43 IST" duration-ms="138289">
+    <groups>
+    </groups>
+    <test started-at="2023-03-20T19:21:25 IST" name="Default test" finished-at="2023-03-20T19:23:43 IST" duration-ms="138289">
+      <class name="com.capitol.WebQAautomation.tests.RunnerClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:21:19 IST" name="setup" finished-at="2023-03-20T19:21:25 IST" duration-ms="5526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="navigate()[pri:1, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:21:25 IST" name="navigate" finished-at="2023-03-20T19:21:29 IST" duration-ms="4209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="invalidcred()[pri:2, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:21:29 IST" name="invalidcred" finished-at="2023-03-20T19:21:42 IST" duration-ms="12805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidcred -->
+        <test-method signature="validCred()[pri:4, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:21:42 IST" name="validCred" finished-at="2023-03-20T19:21:52 IST" duration-ms="9608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCred -->
+        <test-method signature="selectproducts()[pri:5, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:21:52 IST" name="selectproducts" finished-at="2023-03-20T19:22:04 IST" duration-ms="12544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectproducts -->
+        <test-method signature="selectProductQuantity()[pri:6, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:22:04 IST" name="selectProductQuantity" finished-at="2023-03-20T19:22:20 IST" duration-ms="15689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProductQuantity -->
+        <test-method signature="provideaddress(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:7, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:22:20 IST" name="provideaddress" data-provider="address" finished-at="2023-03-20T19:22:43 IST" duration-ms="22905" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rpc layout]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hampinagar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bangalore]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[karnatka]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[560040]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8886663333]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- provideaddress -->
+        <test-method signature="proceedToPayment()[pri:8, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:22:43 IST" name="proceedToPayment" finished-at="2023-03-20T19:22:46 IST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedToPayment -->
+        <test-method signature="addCardDetails()[pri:9, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:22:46 IST" name="addCardDetails" finished-at="2023-03-20T19:23:01 IST" duration-ms="14736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCardDetails -->
+        <test-method signature="validatePaymentSuccessful()[pri:10, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:23:01 IST" name="validatePaymentSuccessful" finished-at="2023-03-20T19:23:11 IST" duration-ms="10249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePaymentSuccessful -->
+        <test-method signature="SwitchToParentWindow()[pri:11, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:23:11 IST" name="SwitchToParentWindow" finished-at="2023-03-20T19:23:14 IST" duration-ms="3101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwitchToParentWindow -->
+        <test-method signature="NavigatetoProfile()[pri:12, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:23:14 IST" name="NavigatetoProfile" finished-at="2023-03-20T19:23:27 IST" duration-ms="13245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoProfile -->
+        <test-method signature="modifyUser()[pri:13, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:23:27 IST" name="modifyUser" finished-at="2023-03-20T19:23:29 IST" duration-ms="1550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser -->
+        <test-method signature="logout()[pri:14, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:23:29 IST" name="logout" finished-at="2023-03-20T19:23:33 IST" duration-ms="4150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="loginwithModifiedpassword()[pri:15, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:23:33 IST" name="loginwithModifiedpassword" finished-at="2023-03-20T19:23:43 IST" duration-ms="10042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithModifiedpassword -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.capitol.WebQAautomation.tests.RunnerClass@710636b0]" started-at="2023-03-20T19:23:43 IST" name="endTest" finished-at="2023-03-20T19:23:44 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.capitol.WebQAautomation.tests.RunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
